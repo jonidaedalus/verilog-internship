@@ -1,0 +1,21 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Jul 16 11:52:53 2020
+[*]
+[dumpfile] "/home/jonidaedalus/Desktop/verilog/verilog codes/out.vcd"
+[dumpfile_mtime] "Thu Jul 16 11:51:51 2020"
+[dumpfile_size] 928
+[savefile] "/home/jonidaedalus/Desktop/verilog/verilog codes/shiftright.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-15.000000 29000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@25
+testbench.A[6:0]
+testbench.ALU_Out[6:0]
+[pattern_trace] 1
+[pattern_trace] 0

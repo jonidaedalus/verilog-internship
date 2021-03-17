@@ -1,0 +1,79 @@
+$date
+	Mon Jun 22 12:16:46 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb $end
+$var wire 2 ! Y [1:0] $end
+$var reg 2 " A [1:0] $end
+$var reg 2 # B [1:0] $end
+$scope module test $end
+$var wire 2 $ A [1:0] $end
+$var wire 2 % B [1:0] $end
+$var reg 2 & Y [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#3
+b1 !
+b1 &
+b1 #
+b1 %
+#6
+b10 !
+b10 &
+b10 #
+b10 %
+#9
+b11 !
+b11 &
+b11 #
+b11 %
+#12
+b0 !
+b0 &
+b1 #
+b1 %
+b1 "
+b1 $
+#15
+b11 !
+b11 &
+b10 #
+b10 %
+#18
+b10 !
+b10 &
+b11 #
+b11 %
+#21
+b0 !
+b0 &
+b10 #
+b10 %
+b10 "
+b10 $
+#24
+b1 !
+b1 &
+b11 #
+b11 %
+#27
+b0 !
+b0 &
+b11 "
+b11 $
+#30
